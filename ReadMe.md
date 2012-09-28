@@ -2,6 +2,9 @@ Module: 8digits Monitoring Platform For OsCommerce
 
 Author: 8digits <http://www.8digits.com>
 
+#DESCRIPTION
+
+This module helps you integrate OsCommerce with 8digits behaviour management system.
 
 #INSTALLATION
 
